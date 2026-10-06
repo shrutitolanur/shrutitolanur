@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Shruti 👋
 
-<!--
-**shrutitolanur/shrutitolanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JD Edwards CNC consultant at Kyndryl in Bangalore, with 10+ years running enterprise ERP platforms for clients in North America and Australia.
 
-Here are some ideas to get you started:
+I work on cloud migrations (IBM Cloud to AWS and Oracle Cloud), upgrades, WebLogic tuning and capacity planning. Lately I spend a lot of time automating repetitive admin work and building small AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **JD Edwards EnterpriseOne:** CNC administration, Server Manager, package deployment, Tools releases
+- **Middleware and platforms:** Oracle WebLogic (WLST), IBM i (AS/400), Hubble (insightsoftware)
+- **Cloud:** AWS (EC2, AMI, CloudWatch), Oracle Cloud Infrastructure
+- **Automation and AI:** Power Automate, ServiceNow, Anthropic SDK (Claude), agentic workflows
+
+### Currently building
+
+- **JDE CNC Automation Toolkit:** zombie kernel cleanup, WebLogic stuck-thread detection, a patching runbook with AWS rollback, and IBM i locked-object reporting
+- **AI research agent:** a tool-use agent built with the Anthropic SDK
+
